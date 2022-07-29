@@ -21,5 +21,5 @@
 
 <p><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=CatastrophistUser&theme=radical" alt="catastrophistuser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catastrophistuser&" alt="catastrophistuser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catastrophistuser&theme="radical"" alt="catastrophistuser" /></p>
 
