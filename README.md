@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about **Java, C++, HTML**
 
 - 📫 How to reach me **reachme.pranjal@gmail.com**
 
