@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
-<h3 align="center">A CSE Undergrad student from SRMIST with an interest in all things CS</h3>
+<h3 align="center">A CSE Undergrad with an interest in all things CS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catastrophistuser&label=Profile%20views&color=0e75b6&style=flat" alt="catastrophistuser" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Improving my skillset**
 
 - 🌱 I’m currently learning **Web Development**
 
