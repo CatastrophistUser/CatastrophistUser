@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
-- 👨‍💻 All of my projects are available at [https://catastrophistuser.github.io/Portfolio/](https://catastrophistuser.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-web-six-blush.vercel.app/)
 
 - 💬 Ask me about **Javascript, Python**
 
