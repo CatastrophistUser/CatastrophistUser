@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
-- 👨‍💻 All of my projects are available at https://portfolio-web-six-blush.vercel.app/
+- 👨‍💻 Check out my Portfolio https://pranjalxm.framer.ai/
 
 - 💬 Ask me about **Javascript, Python**
 
